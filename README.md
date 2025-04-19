@@ -56,6 +56,7 @@ Before deploying the project, ensure the following:
 - **AWS CLI Installed**: Set up and configure the AWS CLI.
 - **Git Installed**: Clone this repository and push changes if needed.
 - **AWS Credentials Configured**: Provide access keys for Terraform to interact with AWS.
+- **Note**: The access key, secret key and key pair are hashed, please replace them with your own
 
 ---
 Step 2: Initialize Terraform
